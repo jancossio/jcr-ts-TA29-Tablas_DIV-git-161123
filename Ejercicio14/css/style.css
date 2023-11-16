@@ -1,0 +1,38 @@
+.row1 {
+    background-color: white;
+  }
+
+  .row2 {
+    background-color: yellow;
+  }
+
+  th,td {
+    border: 2px solid gray;
+    border-bottom: 2px solid lightgray;
+    border-right: 2px solid lightgray;
+    border-left: 2px solid darkgray;
+    border-top: 2px solid darkgray;
+  }
+
+  body{
+    background-image: url('../img/pinguinos.jpg');
+    margin-top: 25px;
+    background-position:top;
+    background-size: 80vh 80vh;
+    background-repeat: no-repeat;
+  }
+
+  table {
+    font:bold;
+    margin:auto;
+    margin-top: 250px;
+    text-align: center;
+    width:50%;
+    border-spacing: 0.5;
+    background-color: burlywood;
+    border: px solid rgb(255, 219, 141);
+    border-bottom: 2px solid lightgray;
+    border-right: 2px solid lightgray;
+    border-left: 2px solid darkgray;
+    border-top: 2px solid darkgray;
+  }

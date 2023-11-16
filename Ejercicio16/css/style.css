@@ -1,0 +1,39 @@
+.row1 {
+    background-color: rgb(73, 179, 73);
+  }
+
+  .row2 {
+    background-color: rgb(255, 194, 80);
+  }
+
+  .row3 {
+    background-color: rgb(255, 255, 120);
+  }
+
+  .row3, .row4, .row5, .row6 {
+    background-color: yellow;
+  }
+
+  th,td {
+    border: 2px solid darkgray;
+    border-bottom: 2px solid lightgray;
+    border-right: 2px solid lightgray;
+    border-left: 2px solid darkgray;
+    border-top: 2px solid darkgray;
+  }
+
+  body{
+    margin-top: 25px;
+  }
+
+  table {
+    font:bold;
+    margin:auto;
+    margin-top: 250px;
+    text-align: center;
+    width:50%;
+    border-spacing: 0.4;
+    border: 3px solid darkgray;
+    border-top: 3px solid lightgray;
+    border-left: 3px solid lightgray;
+  }
